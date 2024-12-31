@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17611577&assignment_repo_type=AssignmentRepo)
 # First Homework Assignment
 
 Welcome to your first assignment! The goal is to help you become familiar with **VS Code**, **Python**, and **GitHub**. If you have any questions, feel free to ask in our Python group.
